@@ -1,4 +1,4 @@
-Nom;Prenom;email;age;Domaine_professionnel;Compétences_acquises;Compétences_en_court;Niveau_de_maîtrise;Compétences_cibles;Durée_apprentissage_par_compétence;Dernière_activité;Score
+Nom;Prenom;email;age;Domaine_professionnel;Competences_acquises;Competences_en_court;Niveau_de_maitrise;Competences_cibles;Duree_apprentissage_par_competence;Derniere_activite;Score
 Harris;Taylor;johnsonjesse@williams-fowler.info;31;Médecine;"Python, SQL, Java";"Cloud, Machine Learning";Débutant;"Kubernetes, Cloud Computing";"2 mois, 4 mois, 5 mois";01/03/2025;7
 Andrews;Allison;eclark@gmail.com;60;Ingénierie;"Gestion de projet, Java, SQL";"Java, Cloud";Avancé;"Deep Learning, Cloud Computing";"1 mois, 3 mois, 3 mois";15/02/2025;3
 Sanchez;Melanie;alexis11@yahoo.com;37;Finance;"Gestion de projet, Python, SQL";"Machine Learning, DevOps";Débutant;"Blockchain, Cloud Computing";"3 mois, 5 mois, 1 mois";27/02/2025;1
